@@ -1,0 +1,8 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="bookmark" transform="translate(-882 -198)">
+        <path d="M889,215.97l5-2.15,5,2.15V203H889Z" fill="#4CAF50" id="Icon" />
+        <path
+            d="M887,219V203a2,2,0,0,1,2-2h10a2,2,0,0,1,2,2v16l-7-3-7,3Zm7-5.17h0l5,2.14V203H889V215.97l5-2.14Z"
+            fill="#1d1d1d" id="Icon-2" />
+    </g>
+</svg>

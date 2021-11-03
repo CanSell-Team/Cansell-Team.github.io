@@ -1,0 +1,8 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="forum" transform="translate(-916 -1216)">
+        <path d="M931,1227v-7H920v8.17l1.17-1.17H931Z" fill="#d0d0d0" id="Icon" />
+        <path
+            d="M938,1238l0,0-4-4H923a1,1,0,0,1-1-1v-2h13v-9h2a1,1,0,0,1,1,1v15Zm-20-5v-14a1,1,0,0,1,1-1h13a1,1,0,0,1,1,1v9a1,1,0,0,1-1,1H922l-4,4Zm2-13v8.17l1.17-1.17H931v-7Z"
+            data-name="Icon" fill="#f9f9f9" id="Icon-2" />
+    </g>
+</svg>

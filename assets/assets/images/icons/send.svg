@@ -1,0 +1,10 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="send" transform="translate(-372 -1526)">
+        <path
+            d="M376.01,1543.97h0l-.01-2.219,7.51-1-7.5,3.22Zm7.492-8.721-7.5-1,.01-2.22,7.493,3.217Z"
+            fill="#d0d0d0" id="Icon" />
+        <path
+            d="M374.01,1547h0l-.011-7,15-2-15-2,.011-7,20.99,9-20.988,9Zm9.509-6.25-7.51,1v2.22l7.51-3.22Zm-7.52-8.72h0v2.22l7.51,1-7.51-3.22Z"
+            data-name="Icon" fill="#1d1d1d" id="Icon-2" />
+    </g>
+</svg>

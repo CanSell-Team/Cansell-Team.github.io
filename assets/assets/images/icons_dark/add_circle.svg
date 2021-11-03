@@ -1,0 +1,10 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="add_circle" transform="translate(-814 -1482)">
+        <path
+            d="M826,1502a8,8,0,1,1,8-8A8.009,8.009,0,0,1,826,1502Zm-1-7v4h2v-4h4v-2h-4v-4h-2v4h-4v2Z"
+            fill="#d0d0d0" id="Icon" />
+        <path
+            d="M826,1504a10,10,0,1,1,10-10A10.011,10.011,0,0,1,826,1504Zm0-18a8,8,0,1,0,8,8A8.009,8.009,0,0,0,826,1486Zm1,13h-2v-4h-4v-2h4v-4h2v4h4v2h-4v4Z"
+            data-name="Icon" fill="#9a9a9a" id="Icon-2" />
+    </g>
+</svg>

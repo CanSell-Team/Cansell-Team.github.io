@@ -1,0 +1,9 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="insert_photo" transform="translate(-100 -2102)">
+        <path d="M119,2121H105v-14h14v14Zm-10-5.861h0l-3,3.86h12l-3.86-5.15-3,3.87Z" fill="#d0d0d0"
+            id="Icon" />
+        <path
+            d="M119,2123H105a2,2,0,0,1-2-2v-14a2,2,0,0,1,2-2h14a2,2,0,0,1,2,2v14A2,2,0,0,1,119,2123Zm-14-16v14h14v-14Zm13,12H106l3-3.86,2.14,2.581,3-3.86L118,2119Z"
+            data-name="Icon" fill="#1d1d1d" id="Icon-2" />
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="chrome_reader_mode" transform="translate(-440 -198)">
+        <rect fill="#d0d0d0" height="13" id="Icon" transform="translate(443 204)" width="8" />
+        <path
+            d="M461,219H443a2,2,0,0,1-2-2V204a2,2,0,0,1,2-2h18a2,2,0,0,1,2,2v13A2,2,0,0,1,461,219Zm-8-15h0v13h8V204Zm-10,0h0v13h8V204Zm17,10h-6v-1.5h6V214Zm0-2.5h-6V210h6v1.5Zm0-2.5h-6v-1.5h6V209Z"
+            data-name="Icon" fill="#f9f9f9" id="Icon-2" />
+    </g>
+</svg>

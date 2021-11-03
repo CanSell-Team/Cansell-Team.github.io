@@ -1,0 +1,8 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="circle" transform="translate(-508 -2680)">
+        <circle cx="8" cy="8" fill="#4CAF50" id="Icon" r="8" transform="translate(512 2684)" />
+        <path
+            d="M520,2702a10,10,0,1,1,10-10A10.011,10.011,0,0,1,520,2702Zm0-18a8,8,0,1,0,8,8A8.009,8.009,0,0,0,520,2684Z"
+            data-name="Icon" fill="#9a9a9a" id="Icon-2" />
+    </g>
+</svg>

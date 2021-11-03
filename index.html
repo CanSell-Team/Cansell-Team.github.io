@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    Fore more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta content="A new Flutter project." name="description">
+
+  <!-- iOS meta tags & icons -->
+  <meta content="yes" name="apple-mobile-web-app-capable">
+  <meta content="black" name="apple-mobile-web-app-status-bar-style">
+  <meta content="cansell" name="apple-mobile-web-app-title">
+  <link href="icons/Icon-192.png" rel="apple-touch-icon">
+
+  <!-- Favicon -->
+  <link href="favicon.png" rel="icon" type="image/png"/>
+
+  <title>cansell</title>
+  <link href="manifest.json" rel="manifest">
+
+  <link href="splash/style.css" rel="stylesheet" type="text/css">
+  <link href="splash/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+  <script defer src="sql-wasm.js"></script>
+  <script defer src="main.dart.js" type="application/javascript"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=2605624917');
+      });
+    }
+  </script>
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-messaging.js"></script>
+
+  <script>
+  var firebaseConfig = {
+    apiKey: "AIzaSyAmrgcSM-zrHLHEWWngQ7Rg4XjNP7oZ-NI",
+    authDomain: "dongip.firebaseapp.com",
+    databaseURL: "https://dongip.firebaseio.com",
+    projectId: "dongip",
+    storageBucket: "dongip.appspot.com",
+    messagingSenderId: "462372997866",
+    appId: "1:462372997866:web:8024df63e92702e0f72593",
+    measurementId: "G-X87HTKTFZ0"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+
+  </script>
+
+  <picture id="splash">
+    <source media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)" srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x">
+    <source media="(prefers-color-scheme: dark)" srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x">
+    <img class="center" src="splash/img/light-1x.png" />
+  </picture>
+      <img class="center" src="splash/img/light-1x.png"/>
+  </picture>
+  <script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>

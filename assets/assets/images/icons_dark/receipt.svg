@@ -1,0 +1,9 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="receipt" transform="translate(-746 -374)">
+        <path d="M765,393.09H751V378.91h14v14.179ZM752,389v2h12v-2Zm0-4h0v2h12v-2Zm0-4h0v2h12v-2Z"
+            fill="#d0d0d0" id="Icon" />
+        <path
+            d="M764,396h0l-1.5-1.5L761,396l-1.5-1.5L758,396l-1.5-1.5L755,396l-1.5-1.5L752,396l-1.5-1.5L749,396V376l1.5,1.5L752,376l1.5,1.5L755,376l1.5,1.5L758,376l1.5,1.5L761,376l1.5,1.5L764,376l1.5,1.5L767,376v20l-1.5-1.5L764,396ZM751,378.91h0v14.18h14V378.91ZM764,391H752v-2h12v2Zm0-4H752v-2h12v2Zm0-4H752v-2h12v2Z"
+            data-name="Icon" fill="#9a9a9a" id="Icon-2" />
+    </g>
+</svg>

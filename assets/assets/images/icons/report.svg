@@ -1,0 +1,10 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="report" transform="translate(-542 -1526)">
+        <path
+            d="M556.9,1545h-5.8l-4.1-4.1v-5.8l4.1-4.1h5.8l4.1,4.1v5.8l-4.1,4.1Zm-2.9-4a1,1,0,1,0,1,1A1,1,0,0,0,554,1541Zm-1-8v7h2v-7Z"
+            fill="#d0d0d0" id="Icon" />
+        <path
+            d="M557.73,1547h-7.46l-5.27-5.27v-7.46l5.27-5.27h7.46l5.269,5.27v7.46L557.73,1547Zm-6.63-16h0l-4.1,4.1v5.8l4.1,4.1h5.8l4.1-4.1v-5.8l-4.1-4.1Zm2.9,12a1,1,0,1,1,1-1A1,1,0,0,1,554,1543Zm1-3h-2v-7h2v7Z"
+            data-name="Icon" fill="#1d1d1d" id="Icon-2" />
+    </g>
+</svg>

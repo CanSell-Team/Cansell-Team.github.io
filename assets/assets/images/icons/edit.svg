@@ -1,0 +1,8 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="create" transform="translate(-576 -1482)">
+        <path d="M581,1500.08v.92h.92l9.06-9.06-.92-.92Z" fill="#d0d0d0" id="Icon" />
+        <path
+            d="M582.75,1503H579v-3.75l11.06-11.06,3.75,3.75L582.75,1503Zm7.31-11.981h0l-9.06,9.06V1501h.921l9.059-9.06-.92-.921Zm4.82-.149h0l-3.75-3.75,1.83-1.83a1,1,0,0,1,1.41,0l2.34,2.34a1,1,0,0,1,0,1.409l-1.829,1.83Z"
+            data-name="Icon" fill="#1d1d1d" id="Icon-2" />
+    </g>
+</svg>

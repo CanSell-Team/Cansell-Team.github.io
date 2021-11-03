@@ -1,0 +1,7 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="settings_power" transform="translate(-848 -418)">
+        <path
+            d="M865,442h-2v-2h2v2Zm-4,0h-2v-2h2v2Zm-4,0h-2v-2h2v2Zm3-5a7.991,7.991,0,0,1-4.559-14.559l1.44,1.44a6.013,6.013,0,1,0,6.23.01l1.45-1.45A7.991,7.991,0,0,1,860,437Zm1-7h-2V420h2v10Z"
+            fill="#9a9a9a" id="Icon" />
+    </g>
+</svg>

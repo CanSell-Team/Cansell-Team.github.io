@@ -1,0 +1,8 @@
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g id="delete" transform="translate(-168 -198)">
+        <rect fill="#d0d0d0" height="10" id="Icon" transform="translate(176 207)" width="8" />
+        <path
+            d="M184,219h-8a2,2,0,0,1-2-2V205h12v12A2,2,0,0,1,184,219Zm-8-12h0v10h8V207h-8Zm11-3H173v-2h3.5l1-1h5l1,1H187v2Z"
+            data-name="Icon" fill="#1d1d1d" id="Icon-2" />
+    </g>
+</svg>
